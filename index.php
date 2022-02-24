@@ -7,7 +7,7 @@
 session_start();
 
 $_SESSION['pid']=1;
-include 'core.php';?>
+
 
 
 <!DOCTYPE html>
