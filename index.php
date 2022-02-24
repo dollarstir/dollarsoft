@@ -8,6 +8,8 @@ session_start();
 
 $_SESSION['pid']=1;
 
+require 'core.php';
+
 
 
 <!DOCTYPE html>
